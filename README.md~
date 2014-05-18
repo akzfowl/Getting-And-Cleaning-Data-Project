@@ -38,5 +38,3 @@ To load tidydata.txt in R, use
 ```R
 read.table("tidydata.txt", sep="\t")
 ```
-
-More info about the working of the script can be found in the [R](./run_analysis.R) file.
